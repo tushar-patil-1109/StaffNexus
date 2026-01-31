@@ -20,13 +20,11 @@
 
 ## 🛠️ Technologies Used
 
-- Technology    |    Description
-  ------------------------------------
-- Java Core       |        programming language
-- Swing & AWT     |        GUI development
-- JDBC            |        Database connectivity
-- MySQL           |        Backend database
-- NetBeans        |        IDE Development environment
+- Java Core (programming language)
+- Swing & AWT (GUI development)
+- JDBC (Database connectivity)
+- MySQL (Backend database)
+- NetBeans (IDE Development environment)
 
 ---
 
@@ -77,8 +75,7 @@ Employee-Management-System
 
 ## 🗄️ Database Details
 
-### - Database Name: employeemanagementsystem
-
+###  Database Name: employeemanagementsystem
 - Sample Table Structure
 ```text
 Sql
