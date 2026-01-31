@@ -75,7 +75,7 @@ Employee-Management-System
 
 ## 🗄️ Database Details
 
-###  Database Name: employeemanagementsystem
+- Database Name: employeemanagementsystem
 - Sample Table Structure
 ```text
 Sql
@@ -111,35 +111,35 @@ CREATE TABLE employee (
 ## 📸 Appication Screenshots 
 
 - ### Start Page
-<img width="600" height="400" alt="Screenshot 2026-01-31 162216" src="https://github.com/user-attachments/assets/69752da0-2cd3-4740-8857-75ffd287b309" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162216" src="https://github.com/user-attachments/assets/69752da0-2cd3-4740-8857-75ffd287b309" />
 <br> <br>
 
 - ### 🔐 Login Page
-<img width="600" height="400" alt="Screenshot 2026-01-31 162246" src="https://github.com/user-attachments/assets/eb1ecc75-f8f3-4e84-8554-90953ef9f3ac" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162246" src="https://github.com/user-attachments/assets/eb1ecc75-f8f3-4e84-8554-90953ef9f3ac" />
 <br> <br>
 
 - ### 🏠 Home Dashboard
-<img width="600" height="400" alt="Screenshot 2026-01-31 162310" src="https://github.com/user-attachments/assets/a37ce412-dbfe-47f6-a324-0c745dd44a1b" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162310" src="https://github.com/user-attachments/assets/a37ce412-dbfe-47f6-a324-0c745dd44a1b" />
 <br> <br>
 
 - ### ➕ Add Employee Page
-<img width="600" height="400" alt="Screenshot 2026-01-31 162344" src="https://github.com/user-attachments/assets/a7bbd7b6-f411-4f33-b8dd-2d814364aa97" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162344" src="https://github.com/user-attachments/assets/a7bbd7b6-f411-4f33-b8dd-2d814364aa97" />
 <br> <br>
 
 - ### ✏️ Update Employee Information
-<img width="600" height="400" alt="Screenshot 2026-01-31 162408" src="https://github.com/user-attachments/assets/76be84dd-d5e1-424b-b1be-f17d0a215e64" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162408" src="https://github.com/user-attachments/assets/76be84dd-d5e1-424b-b1be-f17d0a215e64" />
 <br> <br>
 
 - ### 📋 View Employee Details
-<img width="600" height="400" alt="Screenshot 2026-01-31 162408" src="https://github.com/user-attachments/assets/0f3185a1-9b50-46a7-ac6b-4373a90c07f5" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162408" src="https://github.com/user-attachments/assets/0f3185a1-9b50-46a7-ac6b-4373a90c07f5" />
 <br> <br>
 
 - ### ✏️ Print Employee Information Service
-<img width="600" height="400" alt="Screenshot 2026-01-31 162441" src="https://github.com/user-attachments/assets/f76865b9-44cd-4e1d-b06e-0dbf0e36588e" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162441" src="https://github.com/user-attachments/assets/f76865b9-44cd-4e1d-b06e-0dbf0e36588e" />
 <br> <br>
 
 - ### ❌ Remove Employee Page
-<img width="600" height="400" alt="Screenshot 2026-01-31 162500" src="https://github.com/user-attachments/assets/14224c33-de95-487d-93bc-c4b71c8d16e5" />
+<img width="900" height="600" alt="Screenshot 2026-01-31 162500" src="https://github.com/user-attachments/assets/14224c33-de95-487d-93bc-c4b71c8d16e5" />
 <br> <br>
 
 ---
