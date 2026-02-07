@@ -1,4 +1,4 @@
-## 🧑‍💼 Employee Management System (Java)
+## 🧑‍💼 Employee Management System (StaffNexus)
 
 - A desktop-based Employee Management System developed using Java (Swing & AWT) that helps organizations manage employee records efficiently.
 - The application provides features to add, view, update, and remove employees, along with a secure login system and database connectivity.
